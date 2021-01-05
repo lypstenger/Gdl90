@@ -24,3 +24,4 @@ utilisation
             bgdl90[bgdl90.Length - 1] = 0x7E;
 
 
+penser à rajouter l' echappement 0x7D si nécessaire
