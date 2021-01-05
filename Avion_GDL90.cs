@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Ctrl_irma_select;
 
-namespace espion_Asterix
+
+namespace Gdl90
 {
     public class Avion_GDL90
     {
