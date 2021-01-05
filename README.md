@@ -6,7 +6,7 @@ utilisation
     
     
            Avion_GDL90 calcul_test = new Avion_GDL90();
-           byte[] montableau = calcul_test.createTableau();
+           byte[] b = calcul_test.createTableau();
 
            
            byte[] bgdl90 = new byte[b.Length+4]; //Ajout de 4 octets pour avoir le 7E, CRC..
